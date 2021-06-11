@@ -18,7 +18,7 @@ function httpPost(URL, PARAMS) {
 }
 
  var params = {
-random:Math.random()
+"random":Math.random()
  };
  
  httpPost("http://127.0.0.1:80", params);
